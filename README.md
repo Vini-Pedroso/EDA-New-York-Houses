@@ -23,33 +23,22 @@ Além de responder a estas perguntas, o projeto explora o uso de Geopandas para 
 - **SQL**: Utilizado para criar e manipular o banco de dados que armazena o dataset de imóveis.
 - **Jupyter Notebook**: Ambiente de desenvolvimento interativo para a execução do código e apresentação dos resultados.
 
-## Estrutura do Repositório
-
-/EDA-Mercado-Imobiliario-NY
-├── notebooks
-│ └── EDA_NY_Imoveis.ipynb
-├── datasets
-│ └── ny_imoveis.csv
-├── sql
-│ └── database_creation.sql
-└── README.md
-
-
 ## Como Executar o Projeto
 
 - Clone o repositório para sua máquina local.
-- Certifique-se de que você tem Python instalado e configure um ambiente virtual.
 - Instale as dependências necessárias usando `pip install -r requirements.txt` (assumindo que um arquivo de requirements esteja presente).
-- Abra o Jupyter Notebook (`EDA_NY_Imoveis.ipynb`) e execute as células sequencialmente para reproduzir a análise.
+- Abra o Jupyter Notebook (`analyzing_NY_houses.ipynb`) e execute as células sequencialmente para reproduzir a análise.
 
 ## Principais Descobertas
 
-- **Correlação entre Banheiros e Camas**: [Insira aqui um breve resumo das descobertas relacionadas a esta questão.]
-- **Tipos de Casas Mais Caras**: [Forneça um resumo das descobertas sobre os tipos de casas mais caras e os fatores que contribuem para seus altos preços.]
+- **Correlação entre Banheiros e Camas**: até o momento, apenas foi analisado que banheiros e camas possuem correlação
+- **Tipos de Casas Mais Caras**: as casas mais caras são:
+- 1° lugar => TownHouse
+- 2° lugar =>
+- 3° lugar =>
 
 ## Conclusões
-
-[Insira aqui as conclusões gerais do seu projeto.]
+-(A inserir...)
 
 ## Contato
 
