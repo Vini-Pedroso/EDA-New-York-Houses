@@ -32,8 +32,6 @@ Além de responder a estas perguntas, o projeto explora o uso de Geopandas para 
 │ └── ny_imoveis.csv
 ├── sql
 │ └── database_creation.sql
-├── imagens
-│ └── [várias imagens utilizadas no notebook]
 └── README.md
 
 
