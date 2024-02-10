@@ -33,9 +33,9 @@ Além de responder a estas perguntas, o projeto explora o uso de Geopandas para 
 
 - **Correlação entre Banheiros e Camas**: até o momento, apenas foi analisado que banheiros e camas possuem correlação
 - **Tipos de Casas Mais Caras**: as casas mais caras são:
-- 1° lugar => TownHouse
-- 2° lugar =>
-- 3° lugar =>
+- 1° lugar => TownHouse (casa geminada)
+- 2° lugar => House for Sale 
+- 3° lugar => Condo for Sale (uma corporativa de residencias)
 
 ## Conclusões
 -(A inserir...)
